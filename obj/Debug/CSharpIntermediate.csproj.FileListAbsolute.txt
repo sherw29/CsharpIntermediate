@@ -1,0 +1,6 @@
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojAssemblyReference.cache
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\Sherwin Colaco\source\repos\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
